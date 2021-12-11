@@ -10,6 +10,15 @@
   },
   {
     "id": 2,
+    "title": "Barranquilla",
+    "description": "Barranquilla, también conocida como la 'Arenosa' o 'Curramba la Bella', es una de las principales ciudades de Colombia y un destino turístico de referencia para locales y extranjeros. Esta ciudad, donde el río Magdalena termina su largo recorrido, es cuna de grandes músicos, literatos y pintores.",
+    "punctuation": "Puntuación: 4.6",
+    "photoURL": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/f4/f5/4f.jpg",
+    "lat": "10.96854",
+    "lon": "-74.78132"
+  },  
+  {
+    "id": 3,
     "title": "Riohacha",
     "description": "Riohacha, oficialmente Distrito Especial, Turístico y Cultural de Riohacha, (en wayuunaiki: Süchiimma que traduce a \"Tierra del Río\") es un municipio colombiano, capital del departamento de La Guajira. Se ubica en la costa del mar Caribe, en el delta del río Ranchería.",
     "punctuation": "Puntuación: 4.6",
