@@ -25,5 +25,14 @@
     "photoURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/fb/06/4b/sup-en-riohacha.jpg?w=600&h=500&s=1",
     "lat": "11.54444",
     "lon": "-72.90722"
-  }
+  },
+  {
+    "id": 4,
+    "title": "Bogotá",
+    "description": "Bogotá, oficialmente Bogotá, Distrito Capital (antiguamente, Santafé de Bogotá), es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.",
+    "punctuation": "Puntuación: 4.6",
+    "photoURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/08/3a/c2/twilight-view-over-bogota.jpg?w=1200&h=-1&s=1",
+    "lat": "4.60971",
+    "lon": "-74.08175"
+  }  
 ]
